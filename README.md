@@ -1,2 +1,2 @@
 # Dennis Travels website
-Car hire services.
+Car-hire services.
