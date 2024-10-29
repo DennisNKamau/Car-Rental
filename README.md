@@ -1,6 +1,6 @@
 # Dennis Travels website
 Car Rental Website
-Welcome to the Car Rental Website project! This platform provides a simple, intuitive interface for users to browse, book, and manage car rentals, offering features like flexible booking options, a range of vehicle categories, and responsive customer support.
+Welcome to the Car Rental Website project! This platform provides a simple, intuitive interface for users to browse, book, and manage car rentals. It offers features like flexible booking options, a range of vehicle categories, and responsive customer support.
 
 🚗 Project Overview
 The Car Rental Website allows users to:
@@ -13,7 +13,7 @@ Access services like 24/7 support, flexible rental options, and free pick-up and
 User-Friendly Interface: Simple, responsive design using Bootstrap for a smooth user experience.
 Vehicle Categories: Filter and browse by Economy, SUV, Luxury, and other options.
 Booking System: Choose a car, select rental dates, and confirm reservations seamlessly.
-24/7 Support: Assistance available around the clock to ensure a hassle-free rental experience.
+24/7 Support: Assistance is available around the clock to ensure a hassle-free rental experience.
 Flexible Options: Choose from daily, weekly, or long-term rental plans based on user needs.
 
 🛠️ Tech Stack
@@ -31,6 +31,7 @@ bash
 Copy code
 git clone https://github.com/yourusername/car-rental-website.git
 cd car-rental-website
+
 Open the Project:
 
 Simply open index.html in your preferred browser to run the project locally.
