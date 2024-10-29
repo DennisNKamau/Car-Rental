@@ -8,16 +8,19 @@ The Car Rental Website allows users to:
 View available vehicles across categories (e.g., Economy, SUVs, Luxury)
 Easily reserve a vehicle through a straightforward booking process
 Access services like 24/7 support, flexible rental options, and free pick-up and drop-off
+
 ✨ Features
 User-Friendly Interface: Simple, responsive design using Bootstrap for a smooth user experience.
 Vehicle Categories: Filter and browse by Economy, SUV, Luxury, and other options.
 Booking System: Choose a car, select rental dates, and confirm reservations seamlessly.
 24/7 Support: Assistance available around the clock to ensure a hassle-free rental experience.
 Flexible Options: Choose from daily, weekly, or long-term rental plans based on user needs.
+
 🛠️ Tech Stack
 Frontend: HTML, CSS (Bootstrap), and JavaScript for dynamic and responsive web pages
 Styling: Bootstrap for a modern, mobile-friendly design
 Functionality: JavaScript for interactive elements and client-side operations
+
 🚀 Getting Started
 Prerequisites
 Basic understanding of HTML, CSS, and JavaScript
@@ -35,6 +38,7 @@ Customizing:
 
 Update any sections in HTML and CSS to personalize the look and feel.
 Modify JavaScript functions as needed to add features or adjust behavior.
+
 📂 Project Structure
 plaintext
 Copy code
@@ -43,6 +47,7 @@ car-rental-website/
 ├── css/                # Styling files, including Bootstrap
 ├── js/                 # JavaScript files for interactivity
 └── README.md           # Project documentation
+
 🤝 Contributing
 Contributions are welcome! Feel free to submit issues, fork the repository, and make pull requests to enhance the project.
 
