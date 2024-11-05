@@ -6,7 +6,7 @@ Welcome to the Car Rental Website project! This platform provides a simple, intu
 The Car Rental Website allows users to:
 
 View available vehicles across categories (e.g., Economy, SUVs, Luxury)
-Easily reserve a vehicle through a straightforward booking process
+Easily reserve a car through a straightforward booking process
 Access services like 24/7 support, flexible rental options, and free pick-up and drop-off
 
 ✨ Features
@@ -34,7 +34,7 @@ cd car-rental-website
 
 Open the Project:
 
-Simply open index.html in your preferred browser to run the project locally.
+Open index.html in your preferred browser to run the project locally.
 Customizing:
 
 Update any sections in HTML and CSS to personalize the look and feel.
