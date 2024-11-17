@@ -1,5 +1,5 @@
 # Dennis Travels website
-Car Rental Website
+Car Rental Website.
 Welcome to the Car Rental Website project! This platform provides a simple, intuitive interface for users to browse, book, and manage car rentals. It offers features like flexible booking options, a range of vehicle categories, and responsive customer support.
 
 🚗 Project Overview
